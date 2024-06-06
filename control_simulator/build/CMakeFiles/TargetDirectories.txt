@@ -1,0 +1,5 @@
+/root/xjy/control_simulator_copy/build/CMakeFiles/client_test.dir
+/root/xjy/control_simulator_copy/build/CMakeFiles/terminal.dir
+/root/xjy/control_simulator_copy/build/CMakeFiles/multicast_recv.dir
+/root/xjy/control_simulator_copy/build/CMakeFiles/edit_cache.dir
+/root/xjy/control_simulator_copy/build/CMakeFiles/rebuild_cache.dir
